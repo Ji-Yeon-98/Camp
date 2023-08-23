@@ -2,4 +2,5 @@
     <string name="app_name">Camp</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_fab_todo_add_content_description">할일 목록 추가</string>
 </resources>
